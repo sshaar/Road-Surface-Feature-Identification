@@ -1,0 +1,4 @@
+timestamp(unix),attitude_roll(radians),attitude_pitch(radians),attitude_yaw(radians),rotation_rate_x(radians/s),rotation_rate_y(radians/s),rotation_rate_z(radians/s),gravity_x(G),gravity_y(G),gravity_z(G),user_acc_x(G),user_acc_y(G),user_acc_z(G),magnetic_field_x(microteslas),magnetic_field_y(microteslas),magnetic_field_z(microteslas),latitude(degree),longitude(degree),altitude(meter),speed(m/s),course(degree),timestamp(unix),User Mark
+1523697035.361098,-0.628598,-0.063251,0.570697,-0.127871,-0.232969,-0.047395,-0.586835,0.063209,-0.807235,0.121198,0.060555,-0.060410,13.763290,-11.706075,-4.260986,,,,,,,
+1523697035.391066,-0.634201,-0.064831,0.568323,-0.053907,-0.150362,-0.033575,-0.591289,0.064786,-0.803853,0.148555,0.066165,-0.014873,14.141403,-11.258016,-4.487549,,,,,,,
+,,,,,,,,,,,,,,,,25.310319,51.453053,10.240111,10.150000,312.539062,1523697034.997752,
